@@ -13,7 +13,7 @@
     "create-html": "^4.1.0",
     "electron-html-to": "^2.6.0",
     "file-system": "^2.2.2",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "inquirer": "^7.0.0",
     "open": "^7.0.0",
     "path": "^0.12.7"
